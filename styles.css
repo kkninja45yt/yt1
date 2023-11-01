@@ -1,0 +1,56 @@
+/* General Styles */
+body.black-background {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+/* Header Styles */
+header {
+    background-color: #ff0000;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+/* Navigation Styles */
+nav ul {
+    background-color: #ff0000;
+}
+
+nav ul li {
+    margin: 0 10px;
+    display: inline;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Subscribe Section Styles */
+.subscribe-section {
+    background-color: #ff0000;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.subscribe-button {
+    background-color: #fff;
+    color: #ff0000;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.subscribe-button:hover {
+    background-color: #ccc;
+}
